@@ -1,9 +1,9 @@
 # Site settings
 title: 3dtodo
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+email: benja@3dtodo.com.ar
+url: https://3dtodo.com.ar
+description: "3dtodo. De todo, en 3d!"
+skills: "Adornos - Regalos - Diseños únicos - Repuestos"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -24,38 +24,38 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: 52B3D9 #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  secondary: 34495E #FD6E8A
+  secondary-dark: 2E4257 #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: 3dtodo
+  location: Dirección
+  social: Encontranos en la web
+  credits: Envíos
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  #- title: twitter
+  #  url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/3dtodo
+  #- title: stack-overflow
+  #  url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket
+  #  url: http://bitbucket.org/jekyll
+  #- title: github
+  #  url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Rondeu 586
+  - line: San Miguel de Tucumán, Tucumán, Argentina (4000)
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Hacemos envíos dentro de las 4 avenidas'
 
 # Build settings
 markdown: kramdown
