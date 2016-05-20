@@ -32,9 +32,11 @@ color:
 # Footer settings
 footer:
   copyright: 3dtodo
-  location: Dirección
+  location: Nos encontramos en 
   social: Encontranos en la web
-  credits: Envíos
+  delivery: Envíos
+  phone: Teléfono
+  mail: Email
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -51,11 +53,14 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Rondeu 586
-  - line: San Miguel de Tucumán, Tucumán, Argentina (4000)
+  - line: San Miguel de Tucumán, Tucumán
 
-# Credits content
-credits: 'Hacemos envíos dentro de las 4 avenidas'
+# delivery content
+delivery: 'Hacemos envíos dentro de las 4 avenidas'
+
+mail: <a href="mailto:benja@3dtodo.com.ar">benja@3dtodo.com.ar</a>
+
+phone: (0381) 15 595-6789
 
 # Build settings
 markdown: kramdown
