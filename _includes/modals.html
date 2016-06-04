@@ -14,13 +14,16 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
-                            <ul class="list-inline item-details">
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <!-- <ul class="list-inline item-details">
                                 <li>Precio:
                                     <strong>${{ post.price }}</strong>
                                 </li>
-                            </ul>
+                            </ul> -->
+                            {% for image in post.images %}
+                            <img src="img/portfolio/{{ image.url }}" class="img-responsive img-centered" alt="{{ image.url }}">
+                            {% endfor %}
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>

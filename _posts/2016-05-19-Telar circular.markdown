@@ -6,5 +6,4 @@ img: loom.jpg
 alt: image-alt
 price: 400
 description: Un telar circular para que puedas tejer bufandas, guantes, polainas y más!
-
 ---
