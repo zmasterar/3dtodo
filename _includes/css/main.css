@@ -456,7 +456,8 @@ footer .footer-below {
 }
 .logo {
     transition: filter .5s ease-in;
+    filter: drop-shadow(0px 0px 0px #7AD8FE) brightness(105%);
 }
 .logo:hover {
-    filter: drop-shadow(0px 0px 30px #5CEEFF);
+    filter: drop-shadow(0px 0px 30px #7AD8FE) brightness(105%);
 }
