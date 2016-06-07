@@ -5,6 +5,6 @@ date: 2016-05-19
 img: tardis.jpg
 alt: image-alt
 price: 800
-description: La Tardis de Doctor Who. It's bigger on the inside!
+description: La Tardis de Doctor Who. (It's bigger on the inside!)
 
 ---

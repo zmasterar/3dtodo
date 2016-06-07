@@ -65,3 +65,6 @@ phone: (0381) 15 595-6789
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Price
+show_price: false
