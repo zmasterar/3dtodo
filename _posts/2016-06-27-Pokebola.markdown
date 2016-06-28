@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 20
+date: 2016-06-27
+img: pokeball1.jpg
+alt: Pokebola
+price: 250
+description: Otra simpática cajita para que guardes lo que más atesores. Aros, anillos, dados, clips, pikachus o lo que se se te ocurra.
+images:
+  - url: pokeball2.jpg
+
+---

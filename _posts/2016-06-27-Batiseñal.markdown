@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 12
+date: 2016-06-27
+img: batsignal.jpg
+alt: Batiseñal
+price: 60
+description: Si estás en peligo, lo único q tienes que hacer es activar la Batiseñal.
+
+---
