@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 29
+date: 2016-06-28
+img: jabonera.jpg
+alt: Jabonera
+price: 75
+description: Jabonera en 2 colores.
+---
